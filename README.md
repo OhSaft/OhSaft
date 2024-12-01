@@ -1,5 +1,5 @@
 # Hello World!, I'm Martin, a German Web Developer 👋🏼:
-🧑‍🎓 currently studying business IT at DHBW Lörrach [webpage](https://dhbw-loerrach.de)<br>👨🏼‍💻 coding as hobby since 2014 <i>tobi tackles tech</i>
+🧑‍🎓 currently studying business IT at DHBW Lörrach [webpage](https://dhbw-loerrach.de)<br>👨🏼‍💻 coding as hobby since 2014
 
 
 # 💻 Tech Stack:
